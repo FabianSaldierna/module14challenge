@@ -1,13 +1,13 @@
 # module14challenge
 Solved code for the module 14 challenge
 
-Project Link
+## Project Link
 https://module14challenge-irad.onrender.com
 
-Description
+## Description
 This project solves the challenge for Module 14 with JWT, Express, React, Postgres and Typescript. It uses JWT to autenticate an user to the stie, which is a Kanban project board.
 
-Installation
+## Installation
 In order to use the package ou may need to install NPM packages with:
 
   npm i
@@ -16,14 +16,14 @@ Then you may want to insert data for testing purposes on the postgres db (kanban
 
   npm run seed
 
-Usage
+## Usage
 To run a local test, run the following command: npm run dev:start (The start script runs "npm run build && node dist/index.js")
 
-Credits
+## Credits
 Fabian Saldierna.
 
-License
+## License
 An MIT standard license was used. You may refer to it from the repo.
 
-Features
+## Features
 Implemented JWT authorization with npm package "jwt-decode".
