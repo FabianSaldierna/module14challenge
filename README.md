@@ -24,8 +24,12 @@ This project solves the challenge for Module 14 with JWT, Express, React, Postgr
 
 ## Images
 
-[login]: https://github.com/FabianSaldierna/module14challenge/blob/cc46aaff6562ea624cdc84711c0af36e95e94214/login_no_token.png "The login page"
-[userLoggedIn]: (https://github.com/FabianSaldierna/module14challenge/blob/b5418296a0bfec9c0e2804bab5c7ac290784906a/user_logged_in.png) "A logged-in user"
+An image of the login screen (user is not authenticated):
+![login_no_token](https://github.com/user-attachments/assets/da917ed5-51bb-4f37-b695-cae7a7809003)
+
+An image of a logged in user, with a token on local storage:
+![user_logged_in](https://github.com/user-attachments/assets/f2c6dd9d-f037-4f99-90ce-2c6b88b4762f)
+
 
 ## Installation
 In order to use the package ou may need to install NPM packages with:
